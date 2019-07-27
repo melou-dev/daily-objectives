@@ -14,9 +14,9 @@
     * [ ] Tableaux
     * [ ] Liens
   * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-* [ ] Comprendre l'intérêt des raccourcis clavier
-* [ ] Découverte des raccourcis clavier Linux : 
-  * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
-  * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
+* [x] Comprendre l'intérêt des raccourcis clavier
+* [x] Découverte des raccourcis clavier Linux : 
+  * [x] Navigateur (fenêtres, onglets, navigation, etc …)
+  * [x] Terminal (fenêtres, onglets, commandes)
+  * [x] Découverte et installation de Albert (Linux) / Alfred (Mac)
 * [ ] Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
