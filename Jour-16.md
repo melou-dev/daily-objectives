@@ -12,11 +12,11 @@
   * [x] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 Regarde cette liste de chiffre.
-rend-toi au chiffre le plus à gauche, c'est à dire le premier de la liste.
-compare le au chiffre à sa gauche, MAIS comme il n'y a pas de chiffre à gauche, ALORS rend toi au prochain chiffre à droite.
-compare ce chiffre avec le chiffre à sa gauche.
-SI le chiffre à sa gauche est supérieur ALORS met le chiffre de gauche à droite et celui de droite à gauche, on appelle cette action "swapp" PUIS repart à ma première instruction commançant par "Regarde...".
-SINON, rend toi au prochain chiffre à droite PUIS compare le au chiffre à sa gauche PUIS reprend mes instructions à partir du "SI".
+PUIS rend-toi au chiffre le plus à gauche, c'est à dire le premier de la liste.
+PUIS compare le au chiffre à sa gauche, MAIS comme il n'y a pas de chiffre à gauche, ALORS rend toi au prochain chiffre à droite.
+PUIS compare ce chiffre avec le chiffre à sa gauche.
+SI le chiffre à sa gauche est supérieur ALORS met le chiffre de gauche à droite et celui de droite à gauche, on appelle cette action "swapp" PUIS reprend mes instructions à partir du 1er "PUIS"
+SINON, rend toi au prochain chiffre à droite PUIS reprend mes instructions à partir du 3ème "PUIS", SINON parce qu'il n'y a pas de chiffre à droite, tu considère que tout est classé.
 Validé par Julien.
 
 
