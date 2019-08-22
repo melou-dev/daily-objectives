@@ -20,6 +20,6 @@ SINON, rend toi au prochain chiffre à droite PUIS reprend mes instructions à p
 Validé par Julien.
 
 
-* [ ] CSS : 
-  * [ ] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
-  * [ ] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS 
+* [x] CSS : 
+  * [x] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
+  * [x] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS 
