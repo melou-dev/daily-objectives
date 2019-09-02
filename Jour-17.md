@@ -31,7 +31,7 @@ PUIS on reprend les instructions au 1er PUIS.
 Validé par Mohamed
 
 
-* [ ] CSS : 
+* [x] CSS : 
   * [x] Découvrir l'architecture `7-1` :
     * [x] Comprendre l'intérêt de cette architecture
-    * [ ] Construire son propre boilerplate SASS 7-1
+    * [x] Construire son propre boilerplate SASS 7-1
