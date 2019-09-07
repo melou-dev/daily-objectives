@@ -3,9 +3,9 @@
 ## Mardi 27/08/2019
 
 
-* [ ] Javascript :
+* [x] Javascript :
   * [x] Comprendre le fonctionnement des opérateurs logiques `||`, `&&` et `!` (https://javascript.info/logical-operators)
-    * [ ] Faire les 9 exercices
+    * [x] Faire les 9 exercices
 
     En train de refaire tous les exercises depuis le début.
 
