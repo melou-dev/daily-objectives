@@ -3,9 +3,10 @@
 ## Mercredi 28/08/2019
 
 
-* [ ] Javascript :
+* [x] Javascript :
   * [x] Comprendre le fonctionnement des boucles `while` et `for` (https://javascript.info/while-for)
-    * [ ] Faire les 7 exercices
+    * [x] Faire les 7 exercices
+sauf le dernier exercise sur les nombres premiers (pas compris la solution non plus)
 
 * [ ] Algo : 
   * [ ] Ecrire en pseudocode le Merge Sort (création pure)
