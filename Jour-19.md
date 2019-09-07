@@ -9,8 +9,10 @@
   * [x]Comprendre les différences entre `function declaration`, `function-expression` et `arrow functions` ((https://javascript.info/function-expressions-arrows) => **+ Exercices**
   * [x] S'assurer que toutes les notions dans la page `Javascript special` sont bien acquises.
 
-* [ ] Algo : 
-  * [ ] Ecrire en pseudocode le Merge Sort (création pure)
-  * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+* [x] Algo : 
+  * [x] Ecrire en pseudocode le Merge Sort (création pure)
+  * [x] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+
+  Voir jour 18.
 
 
