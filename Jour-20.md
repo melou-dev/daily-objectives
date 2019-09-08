@@ -11,7 +11,7 @@
         Je mes suis bien marrée!!!
 
 * [ ] Algo : 
-  * [ ] Ecrire en pseudocode le Selection Sort (création pure)
+  * [x] Ecrire en pseudocode le Selection Sort (création pure)
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
   REGARDEZ cette liste.
