@@ -15,15 +15,16 @@
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
   REGARDEZ cette liste.
-  REGARDEZ le chiffre la plus à gauche 
-  ETANT DONNE, qu'il est le plus à gauche se rendre celui à sa droite
-  PUIS le comparer au chiffre à sa gauche
-  SI le chiffre à sa gauche est plus grand
-  ALORS il passe à sa gauche
-  SINON il est considéré comme l'index, cad le plus petit, ALORS il se compare avec les prochains chiffres à sa droite, de gauche à droite JUSQU'A ce qu'il trouve plus petit que lui
-  ALORS le plus petit des deux se retrouve l'index
-  PUIS comparez le nouvel index avec les chiffres à sa gauche, de droite à gauche, jusqu'à ce qu'il trouve un chiffre plus grand que lui
-  "A TERMINER doit faire le merge avant"
-
-
+  REGARDEZ le nombre le plus à gauche.
+  COMPAREZ ce nombre avec les nombres à sa droite, de gauche à droite,
+  JUSQU'A ce que qu'il trouve plus petit que lui,
+  ALORS il prend sa place et le nouveau nombre sélectionné continue de se comparer avec les nombres à droite de celui qui vient de prendre sa place,
+  CHERCHANT plus petit que lui,
+  JUSQU'A ce qu'il n'y ait plus de nombre à droite.
+  ALORS, le nombre prend la place libre la plus à gauche, il est classé.
+  PUIS REGARDEZ le nombre à sa droite
+  PUIS
+  RECOMMENCER l'opération au 1er COMPAREZ,
+  Jusqu'à ce que toute la liste soit classée.
+  
 
