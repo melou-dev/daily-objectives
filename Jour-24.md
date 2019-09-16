@@ -4,8 +4,8 @@
 
 
 * [ ] Javascript :
-  * [ ] Approfondir les `strings` en Javascript (https://javascript.info/string)
-  * [ ] Comprendre le fonctionnement des tableaux en Javascript (https://javascript.info/array)
+  * [x] Approfondir les `strings` en Javascript (https://javascript.info/string)
+  * [x] Comprendre le fonctionnement des tableaux en Javascript (https://javascript.info/array)
   * [ ] Approfondir les tableaux en Javascript en faisant le tour des méthodes disponibles (https://javascript.info/array-methods)
 
 
