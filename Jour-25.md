@@ -3,8 +3,8 @@
 ## Lundi 16/09/2019
 
 
-* [ ] Javascript :
-  * [ ] Découvrir le `DOM` :
+* [x] Javascript :
+  * [x] Découvrir le `DOM` :
 
     * [x] Comprendre la différence entre `DOM`, `CSSOM` et `BOM` (https://javascript.info/browser-environment)
 
@@ -32,5 +32,5 @@
 
 
 * Codewars :
-  * [ ] Thinkful - String Drills: Repeater (https://www.codewars.com/kata/585a1a227cb58d8d740001c3)
-  * [ ] Remove First and Last Character Part Two (https://www.codewars.com/kata/570597e258b58f6edc00230d)
+  * [x] Thinkful - String Drills: Repeater (https://www.codewars.com/kata/585a1a227cb58d8d740001c3)
+  * [x] Remove First and Last Character Part Two (https://www.codewars.com/kata/570597e258b58f6edc00230d) ho yoaaaa!!!!

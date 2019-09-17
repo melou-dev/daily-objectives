@@ -5,17 +5,17 @@
 
 * [ ] Javascript :
 
-  * [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
+  * [x] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
-      * [ ] `querySelector`
-      * [ ] `querySelectorAll`
-      * [ ] `getElementById`
-      * [ ] `getElementsByName`
-      * [ ] `getElementsByTagName`
-      * [ ] `getElementsByClassName`
-      * [ ] `elem.matches(css)`
-      * [ ] `elem.closest(css)`
-    * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
+      * [x] `querySelector`
+      * [x] `querySelectorAll`
+      * [x] `getElementById`
+      * [x] `getElementsByName`
+      * [x] `getElementsByTagName`
+      * [x] `getElementsByClassName`
+      * [x] `elem.matches(css)`
+      * [x] `elem.closest(css)`
+    * [x] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
 
   * [ ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
     * [ ] Découvrir la différence entre les `nodeType` (1,3 et 9)
