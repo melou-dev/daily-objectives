@@ -5,9 +5,9 @@
 
 ### Frameworks JS : 
 
-  * [ ] Découvrir et comprendre comment fonctionne `Vue Router` (https://router.vuejs.org/fr/)
-    * [ ] Comprendre l'intérêt de `Vue Router`
-    * [ ] Savoir ce qu'est le `Client Side Rendering`
+  * [x] Découvrir et comprendre comment fonctionne `Vue Router` (https://router.vuejs.org/fr/)
+    * [x] Comprendre l'intérêt de `Vue Router`
+    * [x] Savoir ce qu'est le `Client Side Rendering`
 
   * [ ] Découvrir et comprendre comment fonctionne `Vuex` (https://vuex.vuejs.org/fr/)
 
