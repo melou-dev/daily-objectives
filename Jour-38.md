@@ -4,10 +4,10 @@
 
 ### Javascript : 
 
-* [ ] Approfondir la différence entre `let` et `var` (https://javascript.info/var)
-* [ ] Comprendre le `Global object` (https://javascript.info/global-object)
-* [ ] Approfondir sa compréhension des fonctions en étudiant son architecture (https://javascript.info/function-object)
-* [ ] Comprendre le fonctionnement de `setTimeout` et `setInterval` (https://javascript.info/settimeout-setinterval)
+* [x] Approfondir la différence entre `let` et `var` (https://javascript.info/var)
+* [x] Comprendre le `Global object` (https://javascript.info/global-object)
+* [x] Approfondir sa compréhension des fonctions en étudiant son architecture (https://javascript.info/function-object)
+* [x] Comprendre le fonctionnement de `setTimeout` et `setInterval` (https://javascript.info/settimeout-setinterval)
 
 ### Backend : 
 
