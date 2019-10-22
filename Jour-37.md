@@ -13,7 +13,7 @@
 * [x] Comprendre ce qu'est Node.js
 * [x] Préparation de l'environnement de développement backend (installations, mises à jour)
 * [x] Comprendre la différence entre le développement synchrone et asynchrone
-* [ ] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
+* [x] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base - Read–eval–print-loop
 
 
 ### Frappe au clavier :
