@@ -11,15 +11,15 @@
 
 ### Backend : 
 
-* [ ] Comprendre le fonctionnement de `NPM` : 
-  * [ ] Comprendre ce qu'est paquet 
-  * [ ] Comprendre comment fonctionne le `package.json` / Mise à jour 
-  * [ ] Savoir ce qu'est le `Semantic Versionning` (SemVer)
-  * [ ] Comprendre la différence entre une installation locale vs globale, entre développement vs production
-  * [ ] Découvrir les commandes utiles 
+* [x] Comprendre le fonctionnement de `NPM` : 
+  * [x] Comprendre ce qu'est paquet 
+  * [x] Comprendre comment fonctionne le `package.json` / Mise à jour 
+  * [x] Savoir ce qu'est le `Semantic Versionning` (SemVer)
+  * [x] Comprendre la différence entre une installation locale vs globale, entre développement vs production
+  * [x] Découvrir les commandes utiles 
 
 * [ ] Faire les exercices `Timers` dans Node.js
 
 ### Frappe au clavier :
 
-* [ ] Leçon 2 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/2)
+* [x] Leçon 2 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/2)

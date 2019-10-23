@@ -24,6 +24,7 @@
 
 ### Node.JS : 
 
+<<<<<<< HEAD
 * [x] Découverte d'`Express.js`
 * [x] Installation d'`Express.js`
 * [x] Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
