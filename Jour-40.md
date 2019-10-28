@@ -38,5 +38,5 @@
 
 ### Node.JS : 
 
-* [ ] Installation du moteur de template `Pug` (https://pugjs.org/api/getting-started.html)
+* [x] Installation du moteur de template `Pug` (https://pugjs.org/api/getting-started.html)
 * [ ] Savoir créer des vues personnalisées avec `Pug` ou `EJS` (plusieurs fois, plusieurs différentes)
