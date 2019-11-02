@@ -4,8 +4,8 @@
 
 ### Javascript : 
 
-* [ ] Comprendre l'héritage prototypal (http://javascript.info/prototype-inheritance)
-* [ ] Savoir ce que sont les prototypes natifs (http://javascript.info/native-prototypes)
+* [x] Comprendre l'héritage prototypal (http://javascript.info/prototype-inheritance)
+* [x] Savoir ce que sont les prototypes natifs (http://javascript.info/native-prototypes)
 
 
   #### Bonus de vacances :
