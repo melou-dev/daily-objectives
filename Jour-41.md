@@ -19,7 +19,7 @@
 
 ### SQL :
 
-* [ ] Commencer son cheat sheet `PostgreSQL` (classer par actions)
+* [x] Commencer son cheat sheet `PostgreSQL` (classer par actions)
 * [ ] Savoir retrouver une information d'une base de données
 * [ ] Savoir trier les résultats
 * [ ] Savoir extraire les données distinctes
