@@ -9,11 +9,11 @@
 
 ## Node.JS :
 
-* Savoir installer et configurer `Babel` pour l'utilisation des `imports` en remplacement des `requires`
-* Savoir installer et configurer les variables d'environnement avec `dotenv-extended`
-* Créer un starter pack "moderne" avec `Express Generator`
-* Comprendre le model `MVC`
-* Savoir créer et configurer des routes dans `Express`
+* [x] Savoir installer et configurer `Babel` pour l'utilisation des `imports` en remplacement des `requires`
+* [x] Savoir installer et configurer les variables d'environnement avec `dotenv-extended`
+* [x] Créer un starter pack "moderne" avec `Express Generator`
+* [x] Comprendre le model `MVC`
+* [x] Savoir créer et configurer des routes dans `Express`
 * Savoir installer et configurer `Sequelize`
 * Savoir créer créer des models dans `Sequelize`
 * Savoir générer des models avec `sequelize-cli`
